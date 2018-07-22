@@ -1,0 +1,268 @@
+{
+  "era": "Early Republic",
+  "data": [
+    {
+      "id": 1,
+      "lesson": 1,
+      "title": "Problems faced by Wash",
+      "pic2013": "10.1a_6_2013",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 2,
+      "title": "Washington's Precedence",
+      "lesson": 1,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 3,
+      "title": "Hamilton's Plan",
+      "lesson": 2,
+      "pic2013": "",
+      "pic2014": "10.1b_51_2014",
+      "pic2015": "",
+      "pic2016": "10.1b_49_2016",
+      "pic2017": ""
+    }, {
+      "id": 4,
+      "title": "Protective Tariff",
+      "lesson": 2,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 5,
+      "title": "Whiskey Rebellion",
+      "lesson": 3,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "10.2_15_2015",
+      "pic2016": "",
+      "pic2017": "10.2_7_2017"
+    }, {
+      "id": 6,
+      "title": "Farewell Address",
+      "lesson": 3,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "10.2_44_2016",
+      "pic2017": "10.2_25_2017"
+    }, {
+      "id": 7,
+      "title": "Federalist Party",
+      "lesson": 4,
+      "pic2013": "10.3a_44_2013",
+      "pic2014": "10.3a_42_2014",
+      "pic2015": "10.3a_3_2015",
+      "pic2016": "10.3a_37_2016",
+      "pic2017": "10.3a_24_2017"
+    }, {
+      "id": 8,
+      "title": "Demcrat-Repub Party",
+      "lesson": 4,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 9,
+      "title": "XYZ Affair",
+      "lesson": 5,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 10,
+      "title": "Alien and Sedition Act",
+      "lesson": 5,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "10.3b_46_2015",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 11,
+      "title": "Revolution of 1800",
+      "lesson": 6,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "11.1a_32_2016",
+      "lesson": 1,
+      "pic2017": ""
+    }, {
+      "id": 12,
+      "title": "Laissez Faire",
+      "lesson": 6,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 13,
+      "title": "Marbury v. Madison",
+      "lesson": 7,
+      "pic2013": "11.1b_29_2013",
+      "pic2014": "11.1b_15_2014",
+      "pic2015": "11.1b_4_2015",
+      "pic2016": "11.1b_48_2016",
+      "pic2017": "11.1b_33_2017"
+    }, {
+      "id": 14,
+      "title": "Gibbons v. Ogden",
+      "lesson": 7,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 15,
+      "title": "MaCullouch v. Maryland",
+      "lesson": 7,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 16,
+      "title": "John Marshall",
+      "lesson": 7,
+      "pic2013": "",
+      "pic2014": "11.1b_15_2014",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 17,
+      "title": "Louisiana Purchase",
+      "lesson": 8,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 18,
+      "title": "Lewis and Clark",
+      "lesson": 8,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "11.2_30_2015",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 19,
+      "title": "Chesapeake Attacked",
+      "lesson": 9,
+      "pic2013": "11.3a_41_2013",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 20,
+      "title": "Embargo Act",
+      "lesson": 9,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 21,
+      "title": "Battle of Tippecanoe",
+      "lesson": 10,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 22,
+      "title": "War Hawks",
+      "lesson": 10,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 23,
+      "title": "D.C. Burned",
+      "lesson": 11,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 24,
+      "title": "Star Spangled Banner",
+      "lesson": 11,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 25,
+      "title": "Treaty of Ghent",
+      "lesson": 12,
+      "pic2013": "11.3a_41_2013",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 26,
+      "title": "Battle of New Orleans",
+      "lesson": 12,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 27,
+      "title": "Increased Manufacturing",
+      "lesson": 12,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 28,
+      "title": "Era of Good/ Nationalism",
+      "lesson": 13,
+      "pic2013": "11.4c_46_2013",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 29,
+      "title": "Monroe Doctrine",
+      "lesson": 13,
+      "pic2013": "",
+      "pic2014": "11.4c_12_2014",
+      "pic2015": "11.4c_32_2015",
+      "pic2016": "",
+      "pic2017": ""
+    }
+  ]
+}

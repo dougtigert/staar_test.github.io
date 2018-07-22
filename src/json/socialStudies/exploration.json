@@ -1,0 +1,104 @@
+{
+  "era": "Exploration",
+  "data": [
+    {
+      "id": 1,
+      "era": "Exploration",
+      "title": "Marco Polo",
+      "lesson": 1,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    },
+    {
+      "id": 2,
+      "era": "Exploration",
+      "title": "Reasons for Exploration",
+      "lesson": 1,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "3.1_2016_31",
+      "pic2017": "3.1_2017_44"
+    },
+    {
+      "id": 3,
+      "era": "Exploration",
+      "title": "Tech Improves",
+      "lesson": 2,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pc2016": "",
+      "pic2017": ""
+    },
+    {
+      "id": 4,
+      "era": "Exploration",
+      "title": "New World",
+      "lesson": 2,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    },
+    {
+      "id": 5,
+      "era": "Exploration",
+      "title": "Spanish Conquistador",
+      "lesson": 3,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    },
+    {
+      "id": 6,
+      "era": "Exploration",
+      "title": "New Spain",
+      "lesson": 3,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "3.4_2016_5",
+      "pic2017": "3.3_2017_42"
+    },
+    {
+      "id": 7,
+      "era": "Exploration",
+      "title": "Other Countries",
+      "lesson": 4,
+      "pic2013": "",
+      "pic2014": "3.4_2014_44",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    },
+    {
+      "id": 8,
+      "era": "Exploration",
+      "title": "Columbian Exchange",
+      "lesson": 4,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    },
+    {
+      "id": 9,
+      "era": "Exploration",
+      "title": "Reasons for Colonization",
+      "lesson": 4,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }
+  ]
+}

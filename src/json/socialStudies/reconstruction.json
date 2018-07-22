@@ -1,0 +1,195 @@
+{
+  "era": "Reconstruction",
+  "data": [
+    {
+      "id": 1,
+      "title": "Reconstruction",
+      "lesson": 1,
+      "pic2013": "",
+      "pic2014": "19.1a_21_2014",
+      "pic2015": "19.1a_20_2015",
+      "pic2016": "19_38_2016",
+      "pic2017": ""
+    }, {
+      "id": 2,
+      "title": "Lincoln's Plan",
+      "lesson": 1,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 3,
+      "title": "A. Johnson's Plan",
+      "lesson": 1,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 4,
+      "title": "Congress Plan",
+      "lesson": 1,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "19.1a_28_2016",
+      "pic2017": ""
+    }, {
+      "id": 5,
+      "title": "Johnson Impeach",
+      "lesson": 1,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "19_38_2016",
+      "pic2017": ""
+    }, {
+      "id": 6,
+      "title": "Freed's Bureau / Black Codes",
+      "lesson": 2,
+      "pic2013": "19.2_4_2013",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "19.2_20_2016",
+      "pic2017": "19.2_30_2017"
+    }, {
+      "id": 7,
+      "title": "13th",
+      "lesson": 2,
+      "pic2013": "19.2_13_2013",
+      "pic2014": "19.2_1_2014",
+      "pic2015": "16.2a_50_2015",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 8,
+      "title": "14th",
+      "lesson": 2,
+      "pic2013": "17.2a_19_2013",
+      "pic2014": "19.2_39_2014",
+      "pic2015": "19.2_36_2015",
+      "pic2016": "19_38_2016.",
+      "pic2017": ""
+    }, {
+      "id": 9,
+      "title": "15th",
+      "lesson": 2,
+      "pic2013": "",
+      "pic2014": "19.2_17_2014",
+      "pic2015": "19.2_33_2015",
+      "pic2016": "19.2_2_38_2016",
+      "pic2017": "19.2_26_2017"
+    }, {
+      "id": 10,
+      "title": "Carpetbaggers",
+      "lesson": 3,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 11,
+      "title": "Scalawags",
+      "lesson": 3,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 12,
+      "title": "Hiram R Revels",
+      "lesson": 3,
+      "pic2013": "",
+      "pic2014": "19.3_20_2014",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 13,
+      "title": "Southern State Govts",
+      "lesson": 3,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": "19.3 40 2017"
+    }, {
+      "id": 14,
+      "title": "New South",
+      "lesson": 3,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "19.3_42_2015",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 15,
+      "title": "Jim Crow Laws",
+      "lesson": 3,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 16,
+      "title": "Homestead Act",
+      "lesson": 4,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": "19.4a_12_2017"
+    }, {
+      "id": 17,
+      "title": "Morrill Act",
+      "lesson": 4,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 18,
+      "title": "Transcontinental Railroad",
+      "lesson": 4,
+      "pic2013": "19.4a_52_2013",
+      "pic2014": "",
+      "pic2015": "19.4a_29_2015",
+      "pic2016": "19.4a_36_42_2016",
+      "pic2017": ""
+    }, {
+      "id": 19,
+      "title": "Indian Wars",
+      "lesson": 5,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 20,
+      "title": "Dawes Act",
+      "lesson": 5,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "19.4b_34_2016",
+      "pic2017": ""
+    }, {
+      "id": 21,
+      "title": "labor reform mov",
+      "lesson": 5,
+      "pic2013": "19.4b_4_2013",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "era": "Sectionalism",
+  "data": [
+    {
+      "id": 1,
+      "title": "Northern Life",
+      "lesson": 1,
+      "pic2013": "17.1a_50_2013",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 2,
+      "title": "Southern Life",
+      "lesson": 1,
+      "pic2013": "17.1a_50_2013",
+      "pic2014": "17.1a_3_2014",
+      "pic2015": "17.1a_34_2015",
+      "pic2016": "17.1a_1_2016",
+      "pic2017": ""
+    }, {
+      "id": 3,
+      "title": "State's Rights",
+      "lesson": 1,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 4,
+      "title": "Sectionalism",
+      "lesson": 1,
+      "pic2013": "",
+      "pic2014": "17.1a_10_2014",
+      "pic2015": "17.1a_10_2015",
+      "pic2016": "",
+      "pic2017": "17.1a_41_3_43_2017"
+    }, {
+      "id": 5,
+      "title": "Compromise of 1850",
+      "lesson": 2,
+      "pic2013": "",
+      "pic2014": "17.1b_32_2014",
+      "pic2015": "",
+      "pic2016": "17.1b_14_2016",
+      "pic2017": ""
+    }, {
+      "id": 6,
+      "title": "Fugitive Slave Law",
+      "lesson": 2,
+      "pic2013": "",
+      "pic2014": "17.1b_50_2014",
+      "pic2015": "",
+      "pic2016": "17.1b_14_2016",
+      "pic2017": "17.1b_36_2017"
+    }, {
+      "id": 7,
+      "title": "Kansas Nebraska Act",
+      "lesson": 2,
+      "pic2013": "17.1b_28_2013",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 8,
+      "title": "Bleeding Kansas",
+      "lesson": 2,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 9,
+      "title": "Republican Party",
+      "lesson": 3,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 10,
+      "title": "Dred Scott v. Sandford",
+      "lesson": 3,
+      "pic2013": "17.2a_19_2013",
+      "pic2014": "",
+      "pic2015": "17.2a_7_2015",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 11,
+      "title": "Slave Revolts",
+      "lesson": 4,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 11,
+      "title": "Lincoln Election",
+      "lesson": 4,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 12,
+      "title": "Lincoln 1st Address",
+      "lesson": 4,
+      "pic2013": "17.2b_38_2013",
+      "pic2014": "",
+      "pic2015": "17.2b_6_2015",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 13,
+      "title": "Confederate States",
+      "lesson": 5,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 14,
+      "title": "Jefferson Davis",
+      "lesson": 5,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 15,
+      "title": "Davis 1st Address",
+      "lesson": 5,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 16,
+      "title": "Ft. Sumter",
+      "lesson": 5,
+      "pic2013": "",
+      "pic2014": "17.3 43 2014",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }
+  ]
+}

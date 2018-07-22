@@ -1,0 +1,159 @@
+{
+  "era": "Jackson",
+  "data": [
+    {
+      "id": 1,
+      "title": "Corrupt Bargain",
+      "lesson": 1,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 2,
+      "title": "Common Man",
+      "lesson": 1,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 3,
+      "title": "Expanded Suffrage",
+      "lesson": 2,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "13.1b_35_2015",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 4,
+      "title": "Spoil System",
+      "lesson": 2,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "13.1b_29_2016",
+      "pic2017": ""
+    }, {
+      "id": 5,
+      "title": "Tariff of (1828) Abom",
+      "lesson": 3,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 6,
+      "title": "Nullify",
+      "lesson": 3,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 7,
+      "title": "Nullification Crisis",
+      "lesson": 3,
+      "pic2013": "13.1c_17_2013",
+      "pic2014": "13.1c_9_2014",
+      "pic2015": "",
+      "pic2016": "13.1c_35_2016",
+      "pic2017": "13.1c_11_2017"
+    }, {
+      "id": 8,
+      "title": "Henry Clay",
+      "lesson": 3,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 9,
+      "title": "Indian Removal Act",
+      "lesson": 4,
+      "pic2013": "",
+      "pic2014": "13.2_13_2014",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 10,
+      "title": "Reasons for Removal",
+      "lesson": 4,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "13.2_1_2015",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 11,
+      "title": "Worcester v. Georgia",
+      "lesson": 4,
+      "pic2013": "13.2_14_2013",
+      "pic2014": "13.2_25_2014",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 12,
+      "title": "Trail of Tears",
+      "lesson": 4,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "13.2_7_2016",
+      "pic2017": ""
+    }, {
+      "id": 13,
+      "title": "National Bank Fight",
+      "lesson": 5,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 14,
+      "title": "Moby dick",
+      "lesson": 6,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 15,
+      "title": "Edgar Allen Poe",
+      "lesson": 6,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 16,
+      "title": "Hudson River School",
+      "lesson": 6,
+      "pic2013": "13.a_33_2013",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "13.a_40_2016",
+      "pic2017": ""
+    }, {
+      "id": 17,
+      "title": "John James Audubon",
+      "lesson": 6,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }
+  ]
+}

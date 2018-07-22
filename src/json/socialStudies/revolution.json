@@ -1,0 +1,445 @@
+{
+  "era": "American Revolution",
+  "data": [
+  {
+    "id": 1,
+    "title": "Ohio River Valley",
+    "lesson": 1,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 2,
+    "title": "Albany Plan of Union",
+    "lesson": 1,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 3,
+    "title": "F & I War",
+    "lesson": 2,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 4,
+    "title": "Proclamation of 1763",
+    "lesson": 2,
+    "pic2013": "5.4b_12_2013",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 5,
+    "title": "duties/taxes",
+    "lesson": 3,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "4.1_27_2015",
+    "pic2016": "",
+    "pic2017": "4.4_9_2017"
+  },
+  {
+    "id": 6,
+    "title": "writs of assistance",
+    "lesson": 3,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 7,
+    "title": "sugar act",
+    "lesson": 3,
+    "pic2013": "4.2_7_2013",
+    "pic2014": "",
+    "pic2015": "4.2_44_2015",
+    "pic2016": "4.2_33_2016",
+    "pic2017": ""
+  },
+  {
+    "id": 8,
+    "title": "Declaratory Act",
+    "lesson": 3,
+    "pic2013": "4.2_16_2013",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 9,
+    "title": "Townshend Act",
+    "lesson": 3,
+    "pic2013": "",
+    "pic2014": "4.2_31_2014",
+    "pic2015": "",
+    "pic2016": "4.2_50_2016",
+    "pic2017": ""
+  },
+  {
+    "id": 10,
+    "title": "Consent of governed",
+    "lesson": 4,
+    "pic2013": "",
+    "pic2014": "6.2a_8_2014",
+    "pic2015": "6.2a_8_49_2015",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 11,
+    "title": "Civil Liberties",
+    "lesson": 4,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "4.3_5_2015",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 12,
+    "title": "Sam Adams/ boycott",
+    "lesson": 4,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "6.2a_27_2016",
+    "pic2017": ""
+  },
+  {
+    "id": 13,
+    "title": "Massacre",
+    "lesson": 4,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 14,
+    "title": "Attacks",
+    "lesson": 4,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "4.4_11_2015",
+    "pic2016": "4.4_23_2016",
+    "pic2017": "4.4_22_2017"
+  },
+  {
+    "id": 15,
+    "title": "Committee of Correspond",
+    "lesson": 5,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 16,
+    "title": "Warren",
+    "lesson": 5,
+    "pic2013": "4.4_18_2013",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "4.4_17_2016",
+    "pic2017": "4.4_9_2017"
+  },
+  {
+    "id": 17,
+    "title": "Abigail Adams",
+    "lesson": 5,
+    "pic2013": "5.1_45_47_2013",
+    "pic2014": "5.3_27_2014",
+    "pic2015": "5.1_21_51_2015",
+    "pic2016": "5.1_15_50_2016",
+    "pic2017": "5.1_31_2017"
+  },
+  {
+    "id": 18,
+    "title": "Tea Party",
+    "lesson": 5,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "5.1_15_2016",
+    "pic2017": ""
+  },
+  {
+    "id": 19,
+    "title": "Civil Disobedience",
+    "lesson": 5,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 20,
+    "title": "Intolerable Acts",
+    "lesson": 5,
+    "pic2013": "6.2b_2_2013",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 21,
+    "title": "Lexington & Concord",
+    "lesson": 6,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "6.2b_37_2015",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 22,
+    "title": "Patriots",
+    "lesson": 7,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 23,
+    "title": "Loyalist",
+    "lesson": 7,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 24,
+    "title": "Washington. Contl Army",
+    "lesson": 7,
+    "pic2013": "6.4a_25_2013",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 25,
+    "title": "Paine",
+    "lesson": 8,
+    "pic2013": "6.2b_2_2013",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 26,
+    "title": "Declaration, 1776",
+    "lesson": 8,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "6.4b_31_2015",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 27,
+    "title": "Jefferson",
+    "lesson": 8,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 28,
+    "title": "Handcock",
+    "lesson": 8,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": "6.4b_14_2017"
+  },
+  {
+    "id": 29,
+    "title": "Unalienable rights",
+    "lesson": 8,
+    "pic2013": "6.4b_36_2013",
+    "pic2014": "6.4_22_2014",
+    "pic2015": "",
+    "pic2016": "6.4b_30_2016",
+    "pic2017": "6.4b_1_2017"
+  },
+  {
+    "id": 30,
+    "title": "grievances",
+    "lesson": 8,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 31,
+    "title": "British Adv",
+    "lesson": 9,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 32,
+    "title": "Patriot adv",
+    "lesson": 9,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 33,
+    "title": "Saratoga",
+    "lesson": 10,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 34,
+    "title": "Lafayette",
+    "lesson": 10,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "7.2_40_2015",
+    "pic2016": "",
+    "pic2017": "7.2_20_2017"
+  },
+  {
+    "id": 35,
+    "title": "de Galvez",
+    "lesson": 10,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 36,
+    "title": "Valley Forge",
+    "lesson": 10,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 37,
+    "title": "John P. Jones",
+    "lesson": 11,
+    "pic2013": "7.3_37_2013",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 38,
+    "title": "Francis Marion",
+    "lesson": 11,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 39,
+    "title": "Yorktown",
+    "lesson": 12,
+    "pic2013": "",
+    "pic2014": "7.4a_11_2014",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 40,
+    "title": "Treaty of Paris",
+    "lesson": 12,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "7.4a_6_2016",
+    "pic2017": ""
+  },
+  {
+    "id": 41,
+    "title": "Henry",
+    "lesson": 13,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 42,
+    "title": "Cheswell",
+    "lesson": 13,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 43,
+    "title": "Armistead",
+    "lesson": 13,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  },
+  {
+    "id": 44,
+    "title": "Solomon",
+    "lesson": 13,
+    "pic2013": "",
+    "pic2014": "",
+    "pic2015": "",
+    "pic2016": "",
+    "pic2017": ""
+  }
+  ]
+}

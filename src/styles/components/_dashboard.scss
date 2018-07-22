@@ -1,0 +1,33 @@
+.dashboard {
+  background: $off-black;
+  color: white;
+  margin-bottom: $xl-size;
+  padding: $m-size 0;
+}
+
+.dashboard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 $m-size;
+}
+
+.dashboard__links {
+  display: flex;
+  flex-direction: column;
+}
+
+.dashboard__links {
+  padding-top: 10px;
+  font-size: 50px;
+}
+
+.dashboard__title {
+  font-size: $l-size;
+  margin: 0;
+  color: white;
+  text-decoration: none;
+  h1 {
+    margin: 0;
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "era": "West Expansion",
+  "data": [
+    {
+      "id": 1,
+      "title": "Reasons for Man Des",
+      "lesson": 1,
+      "pic2013": "14.1b_5_2013",
+      "pic2014": "14.1a_47_2014",
+      "pic2015": "14.1a_22_2015",
+      "pic2016": "14.1a_51_12_2016",
+      "pic2017": ""
+    }, {
+      "id": 2,
+      "title": "Early Acquisitions",
+      "lesson": 1,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 3,
+      "title": "Oregon Territory",
+      "lesson": 2,
+      "pic2013": "14.1b_5_2013",
+      "pic2014": "14.1b_2_2014",
+      "pic2015": "14.1b_45_2015",
+      "pic2016": "",
+      "pic2017": "14.1b_23_2017"
+    }, {
+      "id": 4,
+      "title": "Settlers Motivations",
+      "lesson": 2,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 5,
+      "title": "Texas Revolution",
+      "lesson": 3,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 6,
+      "title": "Texas Annexation",
+      "lesson": 3,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 7,
+      "title": "Mex-Amer War",
+      "lesson": 4,
+      "pic2013": "14.3_20_2013",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "14.3_18_2016",
+      "pic2017": "14.3_27_2017"
+    }, {
+      "id": 8,
+      "title": "Treaty of Guadalupe",
+      "lesson": 4,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "14.3_19_2015",
+      "pic2016": "",
+      "pic2017": ""
+    }, {
+      "id": 9,
+      "title": "Mexican Cession",
+      "lesson": 4,
+      "pic2013": "14.3_1_2013",
+      "pic2014": "14.3_4_6_2014",
+      "pic2015": "14.3_19_2015",
+      "pic2016": "",
+      "pic2017": "14.3_2_2017"
+    }, {
+      "id": 10,
+      "title": "California Gold",
+      "lesson": 5,
+      "pic2013": "",
+      "pic2014": "14.4a_45_37_2014",
+      "pic2015": "",
+      "pic2016": "14.4a_36_2016",
+      "pic2017": "14.4a_15_2017"
+    }, {
+      "id": 11,
+      "title": "Mormons to Utah",
+      "lesson": 5,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": "14.4a_37_2017"
+    }, {
+      "id": 12,
+      "title": "Manifest Dest Map",
+      "lesson": 6,
+      "pic2013": "",
+      "pic2014": "",
+      "pic2015": "",
+      "pic2016": "",
+      "pic2017": ""
+    }
+  ]
+}
